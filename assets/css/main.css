@@ -500,6 +500,14 @@ section {
 	}
 }
 
+.header .btn-book-a-table,
+.header .btn-book-a-table:focus {
+	padding: 10px;
+}
+.header .logo img {
+	max-height: 60px;
+	margin-right: 6px;
+}
 /*--------------------------------------------------------------
 # About Section
 --------------------------------------------------------------*/
